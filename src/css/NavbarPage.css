@@ -1,0 +1,18 @@
+.navbar-nav{
+    margin-left: 30%;
+}
+.btn-secondary{
+    height: 30px;
+    display: flex;
+    align-items: center;
+    margin-left: 280px;
+}
+.btn-secondary span{
+    margin-left: 2px;
+    padding: 2px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: black;
+    align-items: center;
+    display: flex;
+}

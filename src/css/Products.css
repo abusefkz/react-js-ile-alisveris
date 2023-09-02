@@ -1,0 +1,28 @@
+.card{
+    height: 370px;
+    margin: 20px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.card img{
+    height: 210px;
+    object-fit: cover;
+    width: 100%;
+    border: 1px solid lightgray;
+}
+.card img:hover{
+    z-index:1;
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);  
+    transform: scale(1.5);
+    cursor: pointer;
+    
+}
+.card button{
+    margin: 5px 5px 5px 5px;
+    margin-top: 10px;
+}
+.list-group-text span{
+    color: brown;
+    font-weight: 700;
+}
